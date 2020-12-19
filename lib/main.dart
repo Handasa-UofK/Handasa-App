@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
 
 class MyHomePage extends StatefulWidget {
   // ====== Change this ====== //
-  String name = "Your Name"; //Change this variable to your name
+  String name = "Faris Amir"; //Change this variable to your name
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
